@@ -1,2 +1,2 @@
-# ASUCD-Creative-Media
-About the ASUCD-Creative-Media GitHub
+# ASUCD-IT
+About the ASUCD-IT GitHub
